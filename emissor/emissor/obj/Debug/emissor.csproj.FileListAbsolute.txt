@@ -1,0 +1,8 @@
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\bin\Debug\emissor.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\bin\Debug\emissor.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\bin\Debug\emissor.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\bin\Debug\MessageEncrypted.dll
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\bin\Debug\MessageEncrypted.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\obj\Debug\emissor.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\obj\Debug\emissor.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\02_Practiques\PublicPrivateKey\emissor\emissor\obj\Debug\emissor.pdb
